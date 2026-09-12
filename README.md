@@ -27,8 +27,8 @@ See /examples for images and videos of the program compiling a Tiger program as 
 
 ## Example Compilations, including error handling
 
-![Example 1 Test](examples/test_8_07/recording.mp4)
+![Watch the first test example](https://youtu.be/1kJBgOJ5QZY)
 
-![Example 2 Test](examples/test_9_06/recording.mp4)
+![Watch the second test example](https://youtu.be/e2fqfMz2ZFE)
 
 ![Error handling demonstration](examples/test_7_33_error/error-handling.png)
