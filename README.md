@@ -17,28 +17,3 @@ A compiler project for a Tiger-like programming language, translating source pro
 ### Technical Focus
 
 This project provided practical experience with compiler architecture, recursive data structures, parsing theory, static analysis, memory representation, and assembly-level code generation. Supporting documentation covers the AST design, coding standards, source organization, and compiler usage.
-
-### Architecture Diagram
-
-Tiger Source
-    ↓
-Lexer
-    ↓
-Parser
-    ↓
-Abstract Syntax Tree
-    ↓
-Type Checker
-    ↓
-HERA Code Generator
-    ↓
-HERA Assembly
-
-
-
-
-
-
-### TLDR
-
-> Designed and implemented major components of a Tiger-language compiler, including parsing, AST construction, symbol-table management, type checking, semantic analysis, and HERA assembly generation. Built a modular C++ codebase with Flex/Bison integration, CMake-based builds, diagnostic handling, and automated test programs. The original source is private due to academic-project restrictions; this repository documents the project’s architecture, technical decisions, and my contributions without distributing the coursework code.
