@@ -17,3 +17,18 @@ A compiler project for a Tiger-like programming language, translating source pro
 ### Technical Focus
 
 This project provided practical experience with compiler architecture, recursive data structures, parsing theory, static analysis, memory representation, and assembly-level code generation. Supporting documentation covers the AST design, coding standards, source organization, and compiler usage.
+
+
+### This repo outline
+
+See /docs for explainations of how the Compiler was built and works.
+See /examples for images and videos of the program compiling a Tiger program as input and producing HERA code that is then run and should output the result of the Tiger program.
+
+
+## Example Compilations, including error handling
+
+![Example 1 Test](examples/test_8_07/recording.mp4)
+
+![Example 2 Test](examples/test_9_06/recording.mp4)
+
+![Error handling demonstration](examples/test_7_33_error/error-handling.png)
