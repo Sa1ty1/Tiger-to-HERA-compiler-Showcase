@@ -1,4 +1,4 @@
-# Tiger-to-HERA-compiler-Showcase
+# Tiger-to-HERA-Compiler-Showcase
 A showcase of my Compiler Project, as the actual code must stay private for academic restrictions.
 
 A compiler project for a Tiger-like programming language, translating source programs into HERA assembly. The project demonstrates the complete compiler pipeline, from lexical analysis and parsing through semantic validation, abstract syntax tree processing, and code generation.
