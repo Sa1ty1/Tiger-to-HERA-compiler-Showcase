@@ -31,4 +31,4 @@ See /examples for images and videos of the program compiling a Tiger program as 
 
 ![Watch the second test example](examples/test_9_06/recording.mp4)
 
-![Error handling demonstration](examples/test_7_33_error/error-handling.png)
+![Error handling demonstration](examples/test_7_33_error/error.png)
